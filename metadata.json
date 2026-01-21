@@ -1,0 +1,7 @@
+{
+  "name": "Copy of QuestLog RPG",
+  "description": "A gamified task list app that transforms your daily chores into epic RPG quests. Earn XP, level up your hero, and conquer your goals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
